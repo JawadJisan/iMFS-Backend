@@ -1,0 +1,75 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "G:\\Next Level Development\\Digital-cow-Hut\\logs\\winston\\successes\\.9bb327840182622af955e4965f109f9e74fc41c4-audit.json",
+    "files": [
+        {
+            "date": 1687368350612,
+            "name": "G:\\Next Level Development\\Digital-cow-Hut\\logs\\winston\\successes\\DCH-2023-21-06-23-success.log",
+            "hash": "03b4726ef375156d8b410d27b857a67b124e4b0968dc4cf08bccf43d1a212bf6"
+        },
+        {
+            "date": 1687415885371,
+            "name": "G:\\Next Level Development\\Digital-cow-Hut\\logs\\winston\\successes\\DCH-2023-22-06-12-success.log",
+            "hash": "aa6cc8c09f23530c5b1598d5fcbc69232410c59cd04cbd361caaa7bc076f3e2b"
+        },
+        {
+            "date": 1687417293560,
+            "name": "G:\\Next Level Development\\Digital-cow-Hut\\logs\\winston\\successes\\DCH-2023-22-06-13-success.log",
+            "hash": "ee03a0b7cd71579d055a8a045a3b87dac939124c6fec4ecf211834ed67f7b44a"
+        },
+        {
+            "date": 1687421155192,
+            "name": "G:\\Next Level Development\\Digital-cow-Hut\\logs\\winston\\successes\\DCH-2023-22-06-14-success.log",
+            "hash": "a595373194904c5a054857202a904bda9be85a6393dca74a3407210e0b127587"
+        },
+        {
+            "date": 1687428262244,
+            "name": "G:\\Next Level Development\\Digital-cow-Hut\\logs\\winston\\successes\\DCH-2023-22-06-16-success.log",
+            "hash": "6ff41054e2fe16283d9b4965e384265bd8a01df984919625df4f4f1c34cebfe8"
+        },
+        {
+            "date": 1687497129674,
+            "name": "G:\\Next Level Development\\Digital-cow-Hut\\logs\\winston\\successes\\DCH-2023-23-06-11-success.log",
+            "hash": "7fc07393026a7f4c439755e075d4388aab37536db2711be0d9604481e4cbe746"
+        },
+        {
+            "date": 1687520763815,
+            "name": "G:\\Next Level Development\\Digital-cow-Hut\\logs\\winston\\successes\\DCH-2023-23-06-17-success.log",
+            "hash": "9239e7f398bf2f6f0ef131f3549cdf3fd8051b6ded1b77d5d58acdc19e4f710b"
+        },
+        {
+            "date": 1687529324134,
+            "name": "G:\\Next Level Development\\Digital-cow-Hut\\logs\\winston\\successes\\DCH-2023-23-06-20-success.log",
+            "hash": "448f6aac6a42f24b7c7e5b5e1b0dda391c688952ef3e9a901ab0478c70bea912"
+        },
+        {
+            "date": 1687619227567,
+            "name": "G:\\Next Level Development\\Digital-cow-Hut\\logs\\winston\\successes\\DCH-2023-24-06-21-success.log",
+            "hash": "49199c129371b7a91429b48c3a3aac6277425124ac319b8a51a1284d780a8fd6"
+        },
+        {
+            "date": 1687627954070,
+            "name": "G:\\Next Level Development\\Digital-cow-Hut\\logs\\winston\\successes\\DCH-2023-24-06-23-success.log",
+            "hash": "4784dc0c04e1c084115492dbe4a9cb3469259fd2a2205fcfdb93bee4d7b69007"
+        },
+        {
+            "date": 1687661082632,
+            "name": "G:\\Next Level Development\\Digital-cow-Hut\\logs\\winston\\successes\\DCH-2023-25-06-08-success.log",
+            "hash": "2f905b205d3c370777d637f7834ed525799141bd429ad531323620009bdc7412"
+        },
+        {
+            "date": 1687662094907,
+            "name": "G:\\Next Level Development\\Digital-cow-Hut\\logs\\winston\\successes\\DCH-2023-25-06-09-success.log",
+            "hash": "43739c7f91a008c548b287c7899088aa6cc010896b3cadd0b56285e9dabcede8"
+        },
+        {
+            "date": 1687665834185,
+            "name": "G:\\Next Level Development\\Digital-cow-Hut\\logs\\winston\\successes\\DCH-2023-25-06-10-success.log",
+            "hash": "a6ca11befc240d44f868bd4df8e0b4611c521f490c9f4454b7f463f6bdc98201"
+        }
+    ],
+    "hashType": "sha256"
+}
