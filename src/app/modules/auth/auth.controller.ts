@@ -24,8 +24,6 @@ const createAuthUser: RequestHandler = catchAsync(
 
 const signinUser: RequestHandler = catchAsync(async (req, res) => {
   const { ...loginData } = req.body;
-  const sdata = req.session;
-  console.log(sdata, 'session data');
 
   const result = await AuthService.loginUser(loginData);
 

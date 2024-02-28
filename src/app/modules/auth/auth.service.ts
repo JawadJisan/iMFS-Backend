@@ -55,7 +55,7 @@ const loginUser = async (data: ISigninUser): Promise<ISigninUserResponse> => {
     throw new ApiError('User does not exist', httpStatus.NOT_FOUND);
   }
 
-  const passwordMatch = await bcrypt.compare(strPass, user.password);
+  const passwordMatch = await bcrypt.compare(strPass, user?.password);
   console.log(passwordMatch, 'passwordMatch');
 
   if (!passwordMatch) {
